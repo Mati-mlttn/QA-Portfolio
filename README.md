@@ -10,7 +10,7 @@ Incluye documentación real de testing sobre una aplicación mobile propia, un p
 
 Testing funcional y exploratorio sobre Doo It!, una app de rutinas de entrenamiento 100% offline que desarrollé en solitario (React Native / Expo).
 
-| Carpeta                | Contenido                             |
+| Documento              | Contenido                             |
 | ---------------------- | ------------------------------------- |
 | `Test Plan`            | Alcance y planificación del testing   |
 | `Manual Test Cases`    | Casos de prueba funcionales           |
