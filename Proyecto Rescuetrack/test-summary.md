@@ -6,8 +6,8 @@ Se realizó una ejecución de pruebas funcionales, de integración, carga y stre
 
 ## Información de la ejecución
 
-- Proyecto: académico, desarrollado en equipo
-- Equipo: Benjamín Mendoza (Scrum Master) · Beatriz Orellana (Tester QA) · Matius Alcaino (Tester QA)
+- Proyecto: Rescuetrack (Web/Móvil)
+- Equipo: Benjamín Mendoza · Beatriz Orellana · Matius Alcaino 
 - Plataformas evaluadas: Web y Móvil
 - Módulos ejecutados por Matius Alcaino: Registro de usuarios, Vehículos y Reportes de costos (Web) · Login, mantenciones, notificaciones y costos (Móvil)
 
